@@ -1,6 +1,7 @@
 # Stuyvesant Opportunities Bulletin
 
-Created by Team HumanJello, pd 9
+Created by Team HumanJello, pd 9  
+Link through Heroku: 
 
 ## Our Team:
 * Sophie Nichol - Project Manager
